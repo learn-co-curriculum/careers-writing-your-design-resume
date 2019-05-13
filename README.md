@@ -87,16 +87,14 @@ For each experience, you have to indicate your primary responsibilities there, b
 end goals of working at a design job. Play up the transferable skills and describe them the way a digital designer would: As
 stepping stones that helped get you where you are today.
 
-![Image](
+<img src="NonDesignRelatedExperience.png" width="750">
 
 ## Skills and Tools
 
 Skills are areas of expertise in Design you want to highlight from your current roster of knowledge. This may also include
-design adjacent skills worth letting prospective employers know you have experience in. Examples: Graphic design, web analytics,
-SEO, motion graphics, photography, brand strategy, copywriting.
+design adjacent skills worth letting prospective employers know you have experience in. Examples: Graphic design, web analytics, SEO, motion graphics, photography, brand strategy, copywriting.
 
-Tools listing should be a list of the specific software programs you have experience working with. If you have other tools that
-are digital design-adjacent that help show you’re a well-rounded professional, include them too.
+Tools listing should be a list of the specific software programs you have experience working with. If you have other tools that are digital design-adjacent that help show you’re a well-rounded professional, include them too.
 
 There is some overlap that can happen with Skills and Tools. If you want to combine them, that can work also.
 
@@ -116,8 +114,7 @@ simply leave out the degree earned.
 
 ## Other Accomplishments
 
-This is a purely optional area but if you have the space for it, it’s nice to show some extracurricular accomplishments such as
-awards or group you are involved with. Do you volunteer in a design group? Are you apart of AIGA? It demonstrates your well
+This is a purely optional area but if you have the space for it, it’s nice to show some extracurricular accomplishments such as awards or group you are involved with. Do you volunteer in a design group? Are you apart of AIGA? It demonstrates your well
 rounded nature and gives further insight on who you are as a possible member of a team. 
 
 ## Writing Tips
